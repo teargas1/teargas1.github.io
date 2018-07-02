@@ -1,0 +1,25 @@
+body {
+	background-image: url(SassBead.jpeg);
+	background-size: cover;
+}
+h1 {
+	color: gold;
+}
+
+.container , p { 
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	color: white;
+}
+
+.class {
+	background-color: gold;
+}
+
+img{
+	width: 400px;
+	height: 300px;
+	margin: 10px;
+	transition: all 500ms;
+}
